@@ -1,0 +1,4 @@
+c:\Users\lucx1\OneDrive\Skrivebord\ITU 4 semester\Functional progr\Handins\obj\Debug\net7.0\Handins.fsproj.AssemblyReference.cache
+c:\Users\lucx1\OneDrive\Skrivebord\ITU 4 semester\Functional progr\Handins\obj\Debug\net7.0\Handins.AssemblyInfoInputs.cache
+c:\Users\lucx1\OneDrive\Skrivebord\ITU 4 semester\Functional progr\Handins\obj\Debug\net7.0\Handins.AssemblyInfo.fs
+c:\Users\lucx1\OneDrive\Skrivebord\ITU 4 semester\Functional progr\Handins\obj\Debug\net7.0\Handins.fsproj.CoreCompileInputs.cache
