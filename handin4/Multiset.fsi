@@ -20,4 +20,6 @@ module Multiset
 
     val removeSingle : 'a -> Multiset<'a> -> Multiset<'a>
 
-    
+    val fold : ('a -> 'b -> uint32 -> 'a) -> 'a -> Multiset<'b> -> 'a
+
+    val foldBack : ('a -> uint32 -> 'b -> 'b) -> Multiset<'a> -> 'b -> 'b 

@@ -11,3 +11,4 @@ module Multiset
     let addSingle x (M m) = M (Map.add x (numItems x (M m) + 1u) m)
     let remove x n (M m) = M (Map.add x (numItems x (M m) - n) m)
     let removeSingle x (M m) = M (Map.add x (numItems x (M m) - 1u) m)
+    let fold (f acc) (M m) = 
