@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3ABZOd02EI6hyTT7arLt0jtrNtuIPUD4AnwN7B7V2fpfFwAz3NtEXfnxQeK9oPXlifdRl08dq0x2XaV/Y7UdAA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lucx1\\OneDrive\\Skrivebord\\ITU\\ITU 4 semester\\Functional progr\\Handins\\handin4_dict\\handin4_dict.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucx1\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
