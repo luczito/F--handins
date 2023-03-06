@@ -113,11 +113,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lucx1\\OneDrive\\Skrivebord\\ITU\\ITU 4 semester\\Functional progr\\handin4\\handin4.fsproj",
+      "projectUniqueName": "C:\\Users\\lucx1\\OneDrive\\Skrivebord\\ITU\\ITU 4 semester\\Functional progr\\Handins\\handin4\\handin4.fsproj",
       "projectName": "handin4",
-      "projectPath": "C:\\Users\\lucx1\\OneDrive\\Skrivebord\\ITU\\ITU 4 semester\\Functional progr\\handin4\\handin4.fsproj",
+      "projectPath": "C:\\Users\\lucx1\\OneDrive\\Skrivebord\\ITU\\ITU 4 semester\\Functional progr\\Handins\\handin4\\handin4.fsproj",
       "packagesPath": "C:\\Users\\lucx1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lucx1\\OneDrive\\Skrivebord\\ITU\\ITU 4 semester\\Functional progr\\handin4\\obj\\",
+      "outputPath": "C:\\Users\\lucx1\\OneDrive\\Skrivebord\\ITU\\ITU 4 semester\\Functional progr\\Handins\\handin4\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\lucx1\\AppData\\Roaming\\NuGet\\NuGet.Config"
