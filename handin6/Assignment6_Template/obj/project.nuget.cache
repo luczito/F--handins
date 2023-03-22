@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "H/pw8MY6rJ+yZKa+DJRg+i1toPBWXJk0IiTmKKcREk24WsREOyHK3peLQsKKPFoluJb8zls0usQkbSkvfSXNqA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\lucx1\\OneDrive\\Skrivebord\\ITU\\ITU 4 semester\\Functional progr\\Handins\\handin6\\Assignment6_Template\\Assignment6_Template.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucx1\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
