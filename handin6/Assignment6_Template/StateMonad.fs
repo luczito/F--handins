@@ -51,17 +51,13 @@
     let wordLength : SM<int> = 
         S (fun s -> Success (List.length s.word, s))      
 
-    let characterValue (pos : int) : SM<char> = 
-        S (fun s ->
-              match pos with
-              | _ when pos < 0 || pos > s.word.Length -> Failure (IndexOutOfBounds pos)
-              | _ -> Success (fst (List.item pos s.word), s))
+    let characterValue (pos : int) : SM<char> =
+        S (fun s -> if s.word.Length <= pos || pos < 0 then Failure(IndexOutOfBounds pos)
+                            else Success (fst(s.word.[pos]), s))
 
     let pointValue (pos : int) : SM<int> = 
-        S (fun s ->
-              match pos with
-              | _ when pos < 0 || pos > s.word.Length -> Failure (IndexOutOfBounds pos)
-              | _ -> Success (snd (List.item pos s.word), s))
+        S (fun s -> if s.word.Length <= pos || pos < 0 then Failure(IndexOutOfBounds pos)
+                            else Success (snd(s.word.[pos]), s))
 
     let lookup (x : string) : SM<int> = 
         let rec aux =

@@ -7,6 +7,8 @@
 
   <ItemGroup>
     <Compile Include="Program.fs" />
+    <Compile Include="Dict.fsi" />
+    <Compile Include="Dict.fs" />
   </ItemGroup>
 
 </Project>
