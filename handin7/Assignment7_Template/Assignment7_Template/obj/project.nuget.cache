@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "6unS7E0MorSRV1tGujHbYvbB2UOAKEAymDs2M40ro6jQnytkbJKwXqyjy1w7m+SVeRvt4opFpucNpdZBwSSZBw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\lucx1\\OneDrive\\Skrivebord\\ITU\\ITU 4 semester\\Functional progr\\Handins\\handin7\\Assignment7_Template\\Assignment7_Template\\Assignment7_Template.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lucx1\\.nuget\\packages\\fparsec\\1.1.1\\fparsec.1.1.1.nupkg.sha512",
+    "C:\\Users\\lucx1\\.nuget\\packages\\fsharp.core\\7.0.0\\fsharp.core.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
